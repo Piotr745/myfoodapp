@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
     ),
     Image(image: AssetImage('images/obraz.png')),
     ],
-    ),
+    ), //wdasdasdasdd
     ),
     );
   }
